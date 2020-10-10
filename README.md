@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
 [<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="Flask" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
-[<img align="left" alt="Django" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][django]
-[<img align="left" alt="Unity" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />][unity]
+[<img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
+[<img align="left" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][django]
+[<img align="left" alt="Unity" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />][unity]
 [<img align="left" alt="Love2D" width="30px" src="https://lh3.googleusercontent.com/xdVqKpXkeU99o26Ibly4yTzjEK_QiQke_vjGsCNto-cQ-VZ1c4MFXm22PRdOo5PQN7Y" />][love]
 [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="center" height="185px" src="https://github-readme-stats.shrey27tri01.vercel.app/api?username=shrey27tri01&count_private=true&show_icons=true&theme=cobalt&hide_rank=false" /> <img align="center" height="185px" src="https://github-readme-stats.shrey27tri01.vercel.app/api/top-langs/?username=shrey27tri01&layout=compact&card_width=300px" />
+<img align="center" height="185px" src="https://github-readme-stats.shrey27tri01.vercel.app/api?username=shrey27tri01&count_private=true&show_icons=true&theme=cobalt&hide_rank=false" /> <img align="center" height="185px" src="https://github-readme-stats.shrey27tri01.vercel.app/api/top-langs/?username=shrey27tri01&layout=compact" />
 
 <!-- [![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=shrey27tri01&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
 
