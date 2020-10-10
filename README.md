@@ -82,6 +82,21 @@ Here are some ideas to get you started:
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
+
+---
+
+<img align="center" height="185px" src="https://github-readme-stats.shrey27tri01.vercel.app/api?username=shrey27tri01&count_private=true&show_icons=true&theme=cobalt&hide_rank=false" />
+
+<img align="center" height="185px" src="https://github-readme-stats.shrey27tri01.vercel.app/api/top-langs/?username=shrey27tri01&layout=compact" />
+
+<!-- [![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=shrey27tri01&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shrey27tri01&repo=just-post-it&show_owner=true)]() -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrey27tri01&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 [website]: https://shrey27tri01.github.io/portfolio/
 [twitter]: https://twitter.com/shrey__tripathi
 [linkedin]: https://www.linkedin.com/in/shrey-tripathi-76030b1a0/
