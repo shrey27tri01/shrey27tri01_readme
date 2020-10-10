@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The basics of Computer Architecture](https://parameterizer.me/the-basics-of-computer-architecture)
 <!-- BLOG-POST-LIST:END -->
 
 
