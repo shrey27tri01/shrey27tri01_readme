@@ -80,6 +80,11 @@ Here are some ideas to get you started:
 
 ### Latest StackOverflow Activity:
 <!-- STACKOVERFLOW:START -->
+- [Answer by Shrey Tripathi for How to scroll to each option list and back to the top to start again](https://stackoverflow.com/questions/63433174/how-to-scroll-to-each-option-list-and-back-to-the-top-to-start-again/63433342#63433342)
+- [Answer by Shrey Tripathi for How to pass a jinja variable into flask using url_for](https://stackoverflow.com/questions/63424920/how-to-pass-a-jinja-variable-into-flask-using-url-for/63427941#63427941)
+- [Answer by Shrey Tripathi for How to create a decorator in flask?](https://stackoverflow.com/questions/63414414/how-to-create-a-decorator-in-flask/63414834#63414834)
+- [How do I add a polymorphic class in Django?](https://stackoverflow.com/questions/62476346/how-do-i-add-a-polymorphic-class-in-django)
+- [Flask-socketio not able to send instant messages](https://stackoverflow.com/questions/62310195/flask-socketio-not-able-to-send-instant-messages)
 <!-- STACKOVERFLOW:END -->
 
 
