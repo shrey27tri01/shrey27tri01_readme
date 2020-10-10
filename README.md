@@ -91,9 +91,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="center" height="185px" src="https://github-readme-stats.shrey27tri01.vercel.app/api?username=shrey27tri01&count_private=true&show_icons=true&theme=cobalt&hide_rank=false" />
-
-<img align="center" height="185px" src="https://github-readme-stats.shrey27tri01.vercel.app/api/top-langs/?username=shrey27tri01&layout=compact" />
+<img align="center" height="185px" width="50%" src="https://github-readme-stats.shrey27tri01.vercel.app/api?username=shrey27tri01&count_private=true&show_icons=true&theme=cobalt&hide_rank=false" /> <img align="center" height="185px" src="https://github-readme-stats.shrey27tri01.vercel.app/api/top-langs/?username=shrey27tri01&layout=compact&card_width=350px" />
 
 <!-- [![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=shrey27tri01&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
 
