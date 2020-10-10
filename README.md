@@ -75,6 +75,13 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
+---
+
+### Latest StackOverflow Activity:
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 [website]: https://shrey27tri01.github.io/portfolio/
 [twitter]: https://twitter.com/shrey__tripathi
 [linkedin]: https://www.linkedin.com/in/shrey-tripathi-76030b1a0/
