@@ -117,10 +117,12 @@
  <img align="center"  src="https://github-readme-stats.shrey27tri01.vercel.app/api/top-langs/?username=shrey27tri01" />
 </details>
 
+---
+### Wanna hear a joke? :stuck_out_tongue_winking_eye: 
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
-
 <details>
  <summary>:1234: Visitor Count</summary>
  <img alt="Visitor Count" src="https://profile-counter.glitch.me/shrey27tri01/count.svg">
