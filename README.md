@@ -4,7 +4,7 @@
 [![Gitwar](https://gitwar-shrey.herokuapp.com/badge?username=shrey27tri01&style=for-the-badge)](https://gitwar-shrey.herokuapp.com/)
 
 
-## I'm currently a Student at IIIT Bangalore, and a developer
+## I'm a CS Student at IIIT Bangalore
 
 - 🔭 I’m currently working on a Django Ecommerce platform
 - 🌱 I’m currently learning React
