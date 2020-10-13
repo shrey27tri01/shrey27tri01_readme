@@ -1,6 +1,8 @@
 ### Hi there! I am Shrey 👋
 [![Website](https://img.shields.io/badge/Website-up-green?style=for-the-badge)](https://shrey27tri01.github.io/portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shrey__tripathi?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/shrey__tripathi)
+[![Gitwar](https://gitwar-shrey.herokuapp.com/badge?username=shrey27tri01&style=for-the-badge)](https://gitwar-shrey.herokuapp.com/)
+
 
 ## I'm currently a Student at IIIT Bangalore, and a developer
 
