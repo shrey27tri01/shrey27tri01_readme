@@ -100,6 +100,11 @@ Here are some ideas to get you started:
 
 ### Latest Github activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#198](https://github.com/rossjrw/rossjrw/issues/198) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+2. 🗣 Commented on [#653](https://github.com/Py-Contributors/AlgorithmsAndDataStructure/issues/653) in [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure)
+3. 💪 Opened PR [#8432](https://github.com/zero-to-mastery/start-here-guidelines/pull/8432) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+4. 🗣 Commented on [#237](https://github.com/pratik-choudhari/AlgoCode/issues/237) in [pratik-choudhari/AlgoCode](https://github.com/pratik-choudhari/AlgoCode)
+5. 💪 Opened PR [#269](https://github.com/pratik-choudhari/AlgoCode/pull/269) in [pratik-choudhari/AlgoCode](https://github.com/pratik-choudhari/AlgoCode)
 <!--END_SECTION:activity-->
 
 
