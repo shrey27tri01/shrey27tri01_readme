@@ -1,5 +1,9 @@
 ### Hi there! I am Shrey 👋
 
+<!-- ![Visitor Count](https://profile-counter.glitch.me/shrey27tri01/count.svg) visitors -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shrey27tri01.shrey27tri01)
+![gitwar](https://gitwar.herokuapp.com/badge?username=shrey27tri01)
+
 <!--
 **shrey27tri01/shrey27tri01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,15 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Student, and a Developer
+## I'm currently a Student at IIIT Bangalore, and a developer
 
 - 🔭 I’m currently working on a Django Ecommerce platform
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with Computer Architecture :wink:
-- 💬 Ask me about Python, Java, C, and the WEB
+- 💬 Ask me about Python, Java, C, the WEB, or soccer, sports and books
 - 📫 How to reach me: [Twitter](https://twitter.com/shrey__tripathi), [LinkedIn](https://www.linkedin.com/in/shrey-tripathi-76030b1a0/), or [Facebook](https://www.facebook.com/shrey.tripathi.3192/)
 - 🥅 2020 Goals: Contribute more to Open Source 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play soccer :soccer: and read novels :books:
 
 ---
@@ -63,6 +68,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
+[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][linux]
 
 
 <br />  
@@ -91,7 +98,24 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="center" height="185px" src="https://github-readme-stats.shrey27tri01.vercel.app/api?username=shrey27tri01&count_private=true&show_icons=true&theme=cobalt&hide_rank=false" /> <img align="center" height="185px" src="https://github-readme-stats.shrey27tri01.vercel.app/api/top-langs/?username=shrey27tri01&layout=compact" />
+### Latest Github activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+---
+<details>
+ <summary>📈 Github Stats</summary>
+ <img align="center" src="https://github-readme-stats.shrey27tri01.vercel.app/api?username=shrey27tri01&count_private=true&show_icons=true&theme=cobalt&hide_rank=false" /> 
+</details>
+<details>
+ <summary>:computer: Most Used Languages</summary>
+ <img align="center"  src="https://github-readme-stats.shrey27tri01.vercel.app/api/top-langs/?username=shrey27tri01" />
+</details>
+
+![Twitter Follow](https://img.shields.io/twitter/follow/shrey__tripathi?color=1DA1F2&logo=Twitter&style=for-the-badge)
+
+
 
 <!-- [![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=shrey27tri01&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -127,3 +151,4 @@ Here are some ideas to get you started:
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [terminal]: https://en.wikipedia.org/wiki/GNOME_Terminal  
+[linux]: https://www.linux.org/
