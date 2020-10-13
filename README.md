@@ -2,26 +2,6 @@
 [![Website](https://img.shields.io/badge/Website-up-green?style=for-the-badge)](https://shrey27tri01.github.io/portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shrey__tripathi?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/shrey__tripathi)
 
-
-<!-- ![Visitor Count](https://profile-counter.glitch.me/shrey27tri01/count.svg) visitors -->
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=shrey27tri01.shrey27tri01)
-![](https://gitwar-shrey.herokuapp.com/badge?username=shrey27tri01) -->
-
-<!--
-**shrey27tri01/shrey27tri01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## I'm currently a Student at IIIT Bangalore, and a developer
 
 - 🔭 I’m currently working on a Django Ecommerce platform
@@ -78,8 +58,23 @@ Here are some ideas to get you started:
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 
+<!--
 ---
+### Profiles and Blogs:
 
+[<img height="40px" width="40px" src="https://simpleicons.org/icons/codechef.svg">](https://www.codechef.com/users/shrey27tri01) &nbsp;
+[<img height="40px" width="40px" src="https://simpleicons.org/icons/codeforces.svg">](https://codeforces.com/profile/shrey27tri01) &nbsp;
+[<img height="40px" width="40px" src="https://simpleicons.org/icons/freecodecamp.svg">](https://www.freecodecamp.org/shrey27tri01) &nbsp;
+[<img height="40px" width="40px" src="https://simpleicons.org/icons/hackerrank.svg">](https://www.hackerrank.com/shreytripathi27) &nbsp;
+[<img height="40px" width="40px" src="https://simpleicons.org/icons/hackerearth.svg">](https://www.hackerearth.com/@shreytripathi27) &nbsp;
+[<img height="40px" width="40px" src="https://simpleicons.org/icons/leetcode.svg">](https://leetcode.com/shreytripathi27/) &nbsp;
+[<img height="40px" width="40px" src="https://simpleicons.org/icons/medium.svg">](https://medium.com/@shreytripathi) &nbsp;
+[<img height="40px" width="40px" src="https://simpleicons.org/icons/dev-dot-to.svg">](https://dev.to/shrey27tri01) &nbsp;
+[<img height="40px" width="40px" src="https://simpleicons.org/icons/hashnode.svg">](https://hashnode.com/@shreytripathi) &nbsp;
+[<img height="40px" width="40px" src="https://simpleicons.org/icons/stackoverflow.svg">](https://stackoverflow.com/users/12347169/shrey-tripathi)
+ -->
+
+---
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
@@ -123,22 +118,13 @@ Here are some ideas to get you started:
 </details>
 
 
+
 ---
 
 <details>
  <summary>:1234: Visitor Count</summary>
  <img alt="Visitor Count" src="https://profile-counter.glitch.me/shrey27tri01/count.svg">
 </details>
-
-
-
-
-<!-- [![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=shrey27tri01&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shrey27tri01&repo=just-post-it&show_owner=true)]() -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrey27tri01&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 [website]: https://shrey27tri01.github.io/portfolio/
@@ -149,22 +135,17 @@ Here are some ideas to get you started:
 [github]: https://github.com/shrey27tri01
 [gmail]: mailto:shreytripathi27@gmail.com
 
-[c]: https://en.wikipedia.org/wiki/C_(programming_language)
-[cpp]: https://en.wikipedia.org/wiki/C%2B%2B
-[python]: https://www.python.org/
-[java]: https://www.java.com/en/
-[vscode]: https://code.visualstudio.com/
-[html5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-[css3]: https://developer.mozilla.org/en-US/docs/Archive/CSS3
-[sass]: https://sass-lang.com/
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[flask]: https://flask.palletsprojects.com/en/1.1.x/
-[django]: https://www.djangoproject.com/
-[unity]: https://unity.com/
-[love]: https://love2d.org/
-[sql]: https://en.wikipedia.org/wiki/SQL
-[postgresql]: https://www.postgresql.org/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[terminal]: https://en.wikipedia.org/wiki/GNOME_Terminal  
-[linux]: https://www.linux.org/
+<!--
+**shrey27tri01/shrey27tri01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
