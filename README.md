@@ -100,11 +100,11 @@
 
 ### Latest Github activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5878](https://github.com/OpenGenus/cosmos/issues/5878) in [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos)
-2. 🗣 Commented on [#653](https://github.com/Py-Contributors/AlgorithmsAndDataStructure/issues/653) in [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure)
-3. ❗️ Opened issue [#337](https://github.com/EddieJaoudeCommunity/support/issues/337) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. ❗️ Opened issue [#198](https://github.com/rossjrw/rossjrw/issues/198) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-5. 🗣 Commented on [#653](https://github.com/Py-Contributors/AlgorithmsAndDataStructure/issues/653) in [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure)
+1. 🗣 Commented on [#1](https://github.com/js0805/Codeforces-codechef-solutions/issues/1) in [js0805/Codeforces-codechef-solutions](https://github.com/js0805/Codeforces-codechef-solutions)
+2. 🗣 Commented on [#3](https://github.com/js0805/Codeforces-codechef-solutions/issues/3) in [js0805/Codeforces-codechef-solutions](https://github.com/js0805/Codeforces-codechef-solutions)
+3. 🗣 Commented on [#2](https://github.com/js0805/Codeforces-codechef-solutions/issues/2) in [js0805/Codeforces-codechef-solutions](https://github.com/js0805/Codeforces-codechef-solutions)
+4. ❗️ Opened issue [#3](https://github.com/js0805/Codeforces-codechef-solutions/issues/3) in [js0805/Codeforces-codechef-solutions](https://github.com/js0805/Codeforces-codechef-solutions)
+5. 💪 Opened PR [#2](https://github.com/js0805/Codeforces-codechef-solutions/pull/2) in [js0805/Codeforces-codechef-solutions](https://github.com/js0805/Codeforces-codechef-solutions)
 <!--END_SECTION:activity-->
 
 
