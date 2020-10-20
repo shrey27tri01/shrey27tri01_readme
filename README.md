@@ -1,5 +1,5 @@
 ### Hi there! I am Shrey 👋
-[![Website](https://img.shields.io/badge/Website-down-red?style=for-the-badge)](https://shrey27tri01.github.io/portfolio/)
+[![Website](https://img.shields.io/badge/Website-down-red?style=for-the-badge)](https://shrey27tri01.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shrey__tripathi?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/shrey__tripathi)
 [![Gitwar](https://gitwar-shrey.herokuapp.com/badge?username=shrey27tri01&style=for-the-badge)](https://gitwar-shrey.herokuapp.com/)
 
@@ -129,7 +129,7 @@
 </details>
 
 
-[website]: https://shrey27tri01.github.io/portfolio/
+[website]: https://shrey27tri01.github.io/
 [twitter]: https://twitter.com/shrey__tripathi
 [linkedin]: https://www.linkedin.com/in/shrey-tripathi-76030b1a0/
 [facebook]: https://www.facebook.com/shrey.tripathi.3192/
