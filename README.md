@@ -7,7 +7,7 @@
 ## I'm a CS Student at IIIT Bangalore
 
 - 🔭 I’m currently working on a Django Ecommerce platform
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with Computer Architecture :wink:
 - 💬 Ask me about Python, Java, C, the WEB, or soccer, sports and books
