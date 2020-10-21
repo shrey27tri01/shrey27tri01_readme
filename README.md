@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a Django Ecommerce platform
 - 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate with other developers
+- 👯 I’m looking for remote internships
 - 🤔 I’m looking for help with Computer Architecture :wink:
 - 💬 Ask me about Python, Java, C, the WEB, or soccer, sports and books
 - 📫 How to reach me: [Twitter](https://twitter.com/shrey__tripathi), [LinkedIn](https://www.linkedin.com/in/shrey-tripathi-76030b1a0/), or [Facebook](https://www.facebook.com/shrey.tripathi.3192/)
