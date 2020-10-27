@@ -6,7 +6,6 @@
 
 ## I'm a CS Student at IIIT Bangalore
 
-- 🔭 I’m currently working on a Django Ecommerce platform
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking for remote internships
 - 🤔 I’m looking for help with Computer Architecture :wink:
