@@ -80,7 +80,6 @@
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:STARTED -->
-- [An introduction to Single Page Applications with Flask and AJAX](https://iq.opengenus.org/p/d56ae626-cd43-4349-9a82-9f0e186f5640/)
 - [The basics of Computer Architecture](https://parameterizer.me/the-basics-of-computer-architecture)
 <!-- BLOG-POST-LIST:END -->
 
