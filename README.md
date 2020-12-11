@@ -101,11 +101,11 @@
 
 ### Latest Github activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9386](https://github.com/facebook/create-react-app/issues/9386) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-2. 🗣 Commented on [#2](https://github.com/js0805/Codeforces-codechef-solutions/issues/2) in [js0805/Codeforces-codechef-solutions](https://github.com/js0805/Codeforces-codechef-solutions)
-3. 🗣 Commented on [#1](https://github.com/js0805/Codeforces-codechef-solutions/issues/1) in [js0805/Codeforces-codechef-solutions](https://github.com/js0805/Codeforces-codechef-solutions)
-4. 🗣 Commented on [#3](https://github.com/js0805/Codeforces-codechef-solutions/issues/3) in [js0805/Codeforces-codechef-solutions](https://github.com/js0805/Codeforces-codechef-solutions)
-5. 🗣 Commented on [#2](https://github.com/js0805/Codeforces-codechef-solutions/issues/2) in [js0805/Codeforces-codechef-solutions](https://github.com/js0805/Codeforces-codechef-solutions)
+1. 🗣 Commented on [#1344](https://github.com/tardis-sn/tardis/issues/1344) in [tardis-sn/tardis](https://github.com/tardis-sn/tardis)
+2. 🗣 Commented on [#583](https://github.com/HarshCasper/Rotten-Scripts/issues/583) in [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts)
+3. 🗣 Commented on [#6](https://github.com/adityabisoi/github-rest-api-v3/issues/6) in [adityabisoi/github-rest-api-v3](https://github.com/adityabisoi/github-rest-api-v3)
+4. 💪 Opened PR [#117](https://github.com/NJACKWinterOfCode/Get-Started-NWoC20/pull/117) in [NJACKWinterOfCode/Get-Started-NWoC20](https://github.com/NJACKWinterOfCode/Get-Started-NWoC20)
+5. 🗣 Commented on [#9386](https://github.com/facebook/create-react-app/issues/9386) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
 <!--END_SECTION:activity-->
 
 
