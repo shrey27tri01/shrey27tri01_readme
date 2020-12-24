@@ -119,9 +119,11 @@
 </details>
 
 ---
-### Wanna hear a joke? :stuck_out_tongue_winking_eye: 
+<details>
+ <summary>Wanna hear a joke? :stuck_out_tongue_winking_eye: </summary>
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+</details>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 ---
 <details>
  <summary>:1234: Visitor Count</summary>
