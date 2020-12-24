@@ -121,7 +121,8 @@
 ---
 <details>
  <summary>Wanna hear a joke? :stuck_out_tongue_winking_eye: </summary>
- ![Jokes Card](https://readme-jokes.vercel.app/api)
+ <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
+ <img alt="Joke" src="https://readme-jokes.vercel.app/api">
 </details>
 
 ---
