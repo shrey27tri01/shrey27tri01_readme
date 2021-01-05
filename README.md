@@ -100,11 +100,11 @@
 
 ### Latest Github activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#436](https://github.com/thedaviddias/Front-End-Checklist/issues/436) in [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-2. ❗️ Opened issue [#1317](https://github.com/collective/Collective/issues/1317) in [collective/Collective](https://github.com/collective/Collective)
-3. 🗣 Commented on [#36](https://github.com/tejaswini22199/KnowledgeShare/issues/36) in [tejaswini22199/KnowledgeShare](https://github.com/tejaswini22199/KnowledgeShare)
-4. 🗣 Commented on [#1344](https://github.com/tardis-sn/tardis/issues/1344) in [tardis-sn/tardis](https://github.com/tardis-sn/tardis)
-5. 🗣 Commented on [#583](https://github.com/HarshCasper/Rotten-Scripts/issues/583) in [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts)
+1. 🎉 Merged PR [#1](https://github.com/shrey27tri01/tardis/pull/1) in [shrey27tri01/tardis](https://github.com/shrey27tri01/tardis)
+2. 💪 Opened PR [#1](https://github.com/shrey27tri01/tardis/pull/1) in [shrey27tri01/tardis](https://github.com/shrey27tri01/tardis)
+3. ❗️ Opened issue [#436](https://github.com/thedaviddias/Front-End-Checklist/issues/436) in [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+4. ❗️ Opened issue [#1317](https://github.com/collective/Collective/issues/1317) in [collective/Collective](https://github.com/collective/Collective)
+5. 🗣 Commented on [#36](https://github.com/tejaswini22199/KnowledgeShare/issues/36) in [tejaswini22199/KnowledgeShare](https://github.com/tejaswini22199/KnowledgeShare)
 <!--END_SECTION:activity-->
 
 
