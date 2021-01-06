@@ -100,11 +100,11 @@
 
 ### Latest Github activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3296](https://github.com/internetarchive/openlibrary/issues/3296) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
-2. 🎉 Merged PR [#1](https://github.com/shrey27tri01/tardis/pull/1) in [shrey27tri01/tardis](https://github.com/shrey27tri01/tardis)
-3. 💪 Opened PR [#1](https://github.com/shrey27tri01/tardis/pull/1) in [shrey27tri01/tardis](https://github.com/shrey27tri01/tardis)
-4. ❗️ Opened issue [#436](https://github.com/thedaviddias/Front-End-Checklist/issues/436) in [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-5. ❗️ Opened issue [#1317](https://github.com/collective/Collective/issues/1317) in [collective/Collective](https://github.com/collective/Collective)
+1. 🗣 Commented on [#4288](https://github.com/internetarchive/openlibrary/issues/4288) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
+2. 🗣 Commented on [#3296](https://github.com/internetarchive/openlibrary/issues/3296) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
+3. 🎉 Merged PR [#1](https://github.com/shrey27tri01/tardis/pull/1) in [shrey27tri01/tardis](https://github.com/shrey27tri01/tardis)
+4. 💪 Opened PR [#1](https://github.com/shrey27tri01/tardis/pull/1) in [shrey27tri01/tardis](https://github.com/shrey27tri01/tardis)
+5. ❗️ Opened issue [#436](https://github.com/thedaviddias/Front-End-Checklist/issues/436) in [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 <!--END_SECTION:activity-->
 
 
