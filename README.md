@@ -102,9 +102,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4200](https://github.com/internetarchive/openlibrary/issues/4200) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
 2. 🗣 Commented on [#4200](https://github.com/internetarchive/openlibrary/issues/4200) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
-3. 🗣 Commented on [#4288](https://github.com/internetarchive/openlibrary/issues/4288) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
-4. 🗣 Commented on [#3296](https://github.com/internetarchive/openlibrary/issues/3296) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
-5. 🎉 Merged PR [#1](https://github.com/shrey27tri01/tardis/pull/1) in [shrey27tri01/tardis](https://github.com/shrey27tri01/tardis)
+3. 🗣 Commented on [#4200](https://github.com/internetarchive/openlibrary/issues/4200) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
+4. 🗣 Commented on [#4288](https://github.com/internetarchive/openlibrary/issues/4288) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
+5. 🗣 Commented on [#3296](https://github.com/internetarchive/openlibrary/issues/3296) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
 <!--END_SECTION:activity-->
 
 
