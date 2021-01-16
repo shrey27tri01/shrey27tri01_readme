@@ -100,11 +100,11 @@
 
 ### Latest Github activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4405](https://github.com/internetarchive/openlibrary/issues/4405) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
+1. ❗️ Opened issue [#4428](https://github.com/internetarchive/openlibrary/issues/4428) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
 2. 🗣 Commented on [#4405](https://github.com/internetarchive/openlibrary/issues/4405) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
-3. 🎉 Merged PR [#2](https://github.com/shrey27tri01/openlibrary/pull/2) in [shrey27tri01/openlibrary](https://github.com/shrey27tri01/openlibrary)
-4. 💪 Opened PR [#2](https://github.com/shrey27tri01/openlibrary/pull/2) in [shrey27tri01/openlibrary](https://github.com/shrey27tri01/openlibrary)
-5. 🗣 Commented on [#4405](https://github.com/internetarchive/openlibrary/issues/4405) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
+3. 🗣 Commented on [#4405](https://github.com/internetarchive/openlibrary/issues/4405) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
+4. 🎉 Merged PR [#2](https://github.com/shrey27tri01/openlibrary/pull/2) in [shrey27tri01/openlibrary](https://github.com/shrey27tri01/openlibrary)
+5. 💪 Opened PR [#2](https://github.com/shrey27tri01/openlibrary/pull/2) in [shrey27tri01/openlibrary](https://github.com/shrey27tri01/openlibrary)
 <!--END_SECTION:activity-->
 
 
