@@ -100,11 +100,11 @@
 
 ### Latest Github activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/shrey27tri01/letra-extension/pull/1) in [shrey27tri01/letra-extension](https://github.com/shrey27tri01/letra-extension)
-2. 💪 Opened PR [#1](https://github.com/shrey27tri01/letra-extension/pull/1) in [shrey27tri01/letra-extension](https://github.com/shrey27tri01/letra-extension)
-3. ❗️ Opened issue [#4444](https://github.com/internetarchive/openlibrary/issues/4444) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
-4. 🗣 Commented on [#610](https://github.com/internetarchive/bookreader/issues/610) in [internetarchive/bookreader](https://github.com/internetarchive/bookreader)
-5. ❗️ Opened issue [#4428](https://github.com/internetarchive/openlibrary/issues/4428) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
+1. 🗣 Commented on [#4444](https://github.com/internetarchive/openlibrary/issues/4444) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
+2. 🎉 Merged PR [#1](https://github.com/shrey27tri01/letra-extension/pull/1) in [shrey27tri01/letra-extension](https://github.com/shrey27tri01/letra-extension)
+3. 💪 Opened PR [#1](https://github.com/shrey27tri01/letra-extension/pull/1) in [shrey27tri01/letra-extension](https://github.com/shrey27tri01/letra-extension)
+4. ❗️ Opened issue [#4444](https://github.com/internetarchive/openlibrary/issues/4444) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
+5. 🗣 Commented on [#610](https://github.com/internetarchive/bookreader/issues/610) in [internetarchive/bookreader](https://github.com/internetarchive/bookreader)
 <!--END_SECTION:activity-->
 
 
