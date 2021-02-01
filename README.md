@@ -88,11 +88,11 @@
 
 ### Latest StackOverflow Activity:
 <!-- STACKOVERFLOW:START -->
+- [Answer by Shrey Tripathi for Replace string in list](https://stackoverflow.com/questions/65986308/replace-string-in-list/65986401#65986401)
+- [How to create self-nested classes in Python](https://stackoverflow.com/questions/65986034/how-to-create-self-nested-classes-in-python)
 - [How to implement a video exporter in Spring?](https://stackoverflow.com/questions/65325074/how-to-implement-a-video-exporter-in-spring)
 - [Answer by Shrey Tripathi for How to scroll to each option list and back to the top to start again](https://stackoverflow.com/questions/63433174/how-to-scroll-to-each-option-list-and-back-to-the-top-to-start-again/63433342#63433342)
 - [Answer by Shrey Tripathi for How to pass a jinja variable into flask using url_for](https://stackoverflow.com/questions/63424920/how-to-pass-a-jinja-variable-into-flask-using-url-for/63427941#63427941)
-- [Answer by Shrey Tripathi for How to create a decorator in flask?](https://stackoverflow.com/questions/63414414/how-to-create-a-decorator-in-flask/63414834#63414834)
-- [How do I add a polymorphic class in Django?](https://stackoverflow.com/questions/62476346/how-do-i-add-a-polymorphic-class-in-django)
 <!-- STACKOVERFLOW:END -->
 
 
