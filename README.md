@@ -100,11 +100,11 @@
 
 ### Latest Github activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#371](https://github.com/benjaminsampica/benjaminsampica/issues/371) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-2. ❗️ Opened issue [#11604](https://github.com/timburgan/timburgan/issues/11604) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. 💪 Opened PR [#2](https://github.com/IIITBangalore/CISHack-IIITB/pull/2) in [IIITBangalore/CISHack-IIITB](https://github.com/IIITBangalore/CISHack-IIITB)
-4. 🗣 Commented on [#4501](https://github.com/internetarchive/openlibrary/issues/4501) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
-5. ❗️ Opened issue [#1715](https://github.com/JonathanGin52/JonathanGin52/issues/1715) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. ❗️ Closed issue [#436](https://github.com/thedaviddias/Front-End-Checklist/issues/436) in [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+2. 🗣 Commented on [#436](https://github.com/thedaviddias/Front-End-Checklist/issues/436) in [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+3. ❗️ Opened issue [#371](https://github.com/benjaminsampica/benjaminsampica/issues/371) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+4. ❗️ Opened issue [#11604](https://github.com/timburgan/timburgan/issues/11604) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+5. 💪 Opened PR [#2](https://github.com/IIITBangalore/CISHack-IIITB/pull/2) in [IIITBangalore/CISHack-IIITB](https://github.com/IIITBangalore/CISHack-IIITB)
 <!--END_SECTION:activity-->
 
 
