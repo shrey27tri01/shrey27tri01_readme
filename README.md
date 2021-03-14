@@ -100,11 +100,11 @@
 
 ### Latest Github activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/sairish2001/makesmatheasy.github.io/issues/13) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
-2. ❗️ Closed issue [#436](https://github.com/thedaviddias/Front-End-Checklist/issues/436) in [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-3. 🗣 Commented on [#436](https://github.com/thedaviddias/Front-End-Checklist/issues/436) in [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-4. ❗️ Opened issue [#371](https://github.com/benjaminsampica/benjaminsampica/issues/371) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-5. ❗️ Opened issue [#11604](https://github.com/timburgan/timburgan/issues/11604) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. 🎉 Merged PR [#1](https://github.com/shrey27tri01/makesmatheasy.github.io/pull/1) in [shrey27tri01/makesmatheasy.github.io](https://github.com/shrey27tri01/makesmatheasy.github.io)
+2. 💪 Opened PR [#1](https://github.com/shrey27tri01/makesmatheasy.github.io/pull/1) in [shrey27tri01/makesmatheasy.github.io](https://github.com/shrey27tri01/makesmatheasy.github.io)
+3. 🗣 Commented on [#13](https://github.com/sairish2001/makesmatheasy.github.io/issues/13) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
+4. ❗️ Closed issue [#436](https://github.com/thedaviddias/Front-End-Checklist/issues/436) in [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+5. 🗣 Commented on [#436](https://github.com/thedaviddias/Front-End-Checklist/issues/436) in [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 <!--END_SECTION:activity-->
 
 
