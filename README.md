@@ -100,11 +100,11 @@
 
 ### Latest Github activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#139](https://github.com/sairish2001/makesmatheasy.github.io/issues/139) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
-2. 🗣 Commented on [#139](https://github.com/sairish2001/makesmatheasy.github.io/issues/139) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
-3. 🗣 Commented on [#90](https://github.com/sairish2001/makesmatheasy.github.io/issues/90) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
-4. 🗣 Commented on [#89](https://github.com/sairish2001/makesmatheasy.github.io/issues/89) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
-5. 🗣 Commented on [#74](https://github.com/sairish2001/makesmatheasy.github.io/issues/74) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
+1. 🗣 Commented on [#74](https://github.com/sairish2001/makesmatheasy.github.io/issues/74) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
+2. ❗️ Closed issue [#139](https://github.com/sairish2001/makesmatheasy.github.io/issues/139) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
+3. 🗣 Commented on [#139](https://github.com/sairish2001/makesmatheasy.github.io/issues/139) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
+4. 🗣 Commented on [#90](https://github.com/sairish2001/makesmatheasy.github.io/issues/90) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
+5. 🗣 Commented on [#89](https://github.com/sairish2001/makesmatheasy.github.io/issues/89) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
 <!--END_SECTION:activity-->
 
 
