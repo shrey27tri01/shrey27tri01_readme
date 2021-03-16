@@ -100,11 +100,11 @@
 
 ### Latest Github activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/shrey27tri01/makesmatheasy.github.io/pull/2) in [shrey27tri01/makesmatheasy.github.io](https://github.com/shrey27tri01/makesmatheasy.github.io)
-2. 💪 Opened PR [#2](https://github.com/shrey27tri01/makesmatheasy.github.io/pull/2) in [shrey27tri01/makesmatheasy.github.io](https://github.com/shrey27tri01/makesmatheasy.github.io)
-3. 🗣 Commented on [#192](https://github.com/sairish2001/makesmatheasy.github.io/issues/192) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
-4. 🗣 Commented on [#74](https://github.com/sairish2001/makesmatheasy.github.io/issues/74) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
-5. 🗣 Commented on [#74](https://github.com/sairish2001/makesmatheasy.github.io/issues/74) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
+1. 🗣 Commented on [#195](https://github.com/sairish2001/makesmatheasy.github.io/issues/195) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
+2. 🗣 Commented on [#193](https://github.com/sairish2001/makesmatheasy.github.io/issues/193) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
+3. 🎉 Merged PR [#2](https://github.com/shrey27tri01/makesmatheasy.github.io/pull/2) in [shrey27tri01/makesmatheasy.github.io](https://github.com/shrey27tri01/makesmatheasy.github.io)
+4. 💪 Opened PR [#2](https://github.com/shrey27tri01/makesmatheasy.github.io/pull/2) in [shrey27tri01/makesmatheasy.github.io](https://github.com/shrey27tri01/makesmatheasy.github.io)
+5. 🗣 Commented on [#192](https://github.com/sairish2001/makesmatheasy.github.io/issues/192) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
 <!--END_SECTION:activity-->
 
 
