@@ -100,11 +100,11 @@
 
 ### Latest Github activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4746](https://github.com/internetarchive/openlibrary/issues/4746) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
-2. 🗣 Commented on [#209](https://github.com/sairish2001/makesmatheasy.github.io/issues/209) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
-3. 🗣 Commented on [#208](https://github.com/sairish2001/makesmatheasy.github.io/issues/208) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
-4. 🗣 Commented on [#207](https://github.com/sairish2001/makesmatheasy.github.io/issues/207) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
-5. 🗣 Commented on [#206](https://github.com/sairish2001/makesmatheasy.github.io/issues/206) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
+1. 🗣 Commented on [#232](https://github.com/sairish2001/MakesMathEasy/issues/232) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
+2. 🗣 Commented on [#230](https://github.com/sairish2001/MakesMathEasy/issues/230) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
+3. 🗣 Commented on [#4746](https://github.com/internetarchive/openlibrary/issues/4746) in [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
+4. 🗣 Commented on [#209](https://github.com/sairish2001/makesmatheasy.github.io/issues/209) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
+5. 🗣 Commented on [#208](https://github.com/sairish2001/makesmatheasy.github.io/issues/208) in [sairish2001/makesmatheasy.github.io](https://github.com/sairish2001/makesmatheasy.github.io)
 <!--END_SECTION:activity-->
 
 
