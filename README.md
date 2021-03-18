@@ -7,7 +7,7 @@
 ## I'm a CS Student at IIIT Bangalore
 <!-- - 🤔 I’m looking for help with Computer Architecture :wink: --> 
 <!-- - 🌱 I’m currently learning Spring Boot -->
-- 👯 I’m looking for remote internships
+<!-- - 👯 I’m looking for remote internships -->
 - 💬 Ask me about Python, Java, C, the WEB, or soccer, sports and books
 - 📫 How to reach me: [Twitter](https://twitter.com/shrey__tripathi), [LinkedIn](https://www.linkedin.com/in/shrey-tripathi-76030b1a0/), or [Facebook](https://www.facebook.com/shrey.tripathi.3192/)
 - 🥅 2021 Goals: Contribute more to Open Source 
@@ -85,9 +85,9 @@
 
 
 ---
-
+<!-- 
 ### Latest StackOverflow Activity:
-<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:START 
 - [Answer by Shrey Tripathi for Replace string in list](https://stackoverflow.com/questions/65986308/replace-string-in-list/65986401#65986401)
 - [How to implement a video exporter in Spring?](https://stackoverflow.com/questions/65325074/how-to-implement-a-video-exporter-in-spring)
 - [Answer by Shrey Tripathi for How to scroll to each option list and back to the top to start again](https://stackoverflow.com/questions/63433174/how-to-scroll-to-each-option-list-and-back-to-the-top-to-start-again/63433342#63433342)
@@ -97,9 +97,9 @@
 
 
 ---
-
+<!--
 ### Latest Github activity
-<!--START_SECTION:activity-->
+<!--START_SECTION:activity
 1. ❗️ Closed issue [#240](https://github.com/sairish2001/MakesMathEasy/issues/240) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
 2. 🎉 Merged PR [#245](https://github.com/sairish2001/MakesMathEasy/pull/245) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
 3. ❗️ Closed issue [#230](https://github.com/sairish2001/MakesMathEasy/issues/230) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
@@ -119,11 +119,12 @@
 </details>
 
 ---
+<!-- 
 <details>
  <summary>Wanna hear a joke? :stuck_out_tongue_winking_eye: </summary>
- <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
+ <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) 
  <img alt="Joke" src="https://readme-jokes.vercel.app/api">
-</details>
+</details> -->
 
 ---
 <details>
