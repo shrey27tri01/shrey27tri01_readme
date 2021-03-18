@@ -84,7 +84,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
----
+
 <!-- 
 ### Latest StackOverflow Activity:
 <!-- STACKOVERFLOW:START 
@@ -96,7 +96,7 @@
 <!-- STACKOVERFLOW:END -->
 
 
----
+
 <!--
 ### Latest Github activity
 <!--START_SECTION:activity
@@ -118,7 +118,7 @@
  <img align="center"  src="https://github-readme-stats.shrey27tri01.vercel.app/api/top-langs/?username=shrey27tri01" />
 </details>
 
----
+
 <!-- 
 <details>
  <summary>Wanna hear a joke? :stuck_out_tongue_winking_eye: </summary>
