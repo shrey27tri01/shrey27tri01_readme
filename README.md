@@ -100,11 +100,11 @@
 
 ### Latest Github activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#245](https://github.com/sairish2001/MakesMathEasy/issues/245) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
-2. 🗣 Commented on [#241](https://github.com/sairish2001/MakesMathEasy/issues/241) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
-3. ❗️ Closed issue [#224](https://github.com/sairish2001/MakesMathEasy/issues/224) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
-4. 🗣 Commented on [#224](https://github.com/sairish2001/MakesMathEasy/issues/224) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
-5. 🗣 Commented on [#610](https://github.com/internetarchive/bookreader/issues/610) in [internetarchive/bookreader](https://github.com/internetarchive/bookreader)
+1. ❗️ Closed issue [#240](https://github.com/sairish2001/MakesMathEasy/issues/240) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
+2. 🎉 Merged PR [#245](https://github.com/sairish2001/MakesMathEasy/pull/245) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
+3. ❗️ Closed issue [#230](https://github.com/sairish2001/MakesMathEasy/issues/230) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
+4. 🗣 Commented on [#240](https://github.com/sairish2001/MakesMathEasy/issues/240) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
+5. ❗️ Closed issue [#235](https://github.com/sairish2001/MakesMathEasy/issues/235) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
 <!--END_SECTION:activity-->
 
 
