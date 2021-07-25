@@ -12,7 +12,7 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/shrey__tripathi), [LinkedIn](https://www.linkedin.com/in/shrey-tripathi-76030b1a0/), or [Email](mailto:shreytripathi27@gmail.com)
 - 🥅 2021 Goals: Contribute more to Open Source 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play soccer :soccer: and read novels :books:
+- ⚡ Fun fact: I love to play football :soccer: and read novels :books:
 
 ---
 
