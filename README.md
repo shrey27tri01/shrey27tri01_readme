@@ -8,7 +8,7 @@
 <!-- - 🤔 I’m looking for help with Computer Architecture :wink: --> 
 <!-- - 🌱 I’m currently learning Spring Boot -->
 <!-- - 👯 I’m looking for remote internships -->
-- 💬 Ask me about Python, Java, C, the WEB, or soccer, sports and books
+- 💬 Ask me about Python, Java, C, the WEB, or football, sports and books
 - 📫 How to reach me: [Twitter](https://twitter.com/shrey__tripathi), [LinkedIn](https://www.linkedin.com/in/shrey-tripathi-76030b1a0/), or [Email](mailto:shreytripathi27@gmail.com)
 - 🥅 2021 Goals: Contribute more to Open Source 
 - 😄 Pronouns: He/Him
