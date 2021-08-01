@@ -78,9 +78,9 @@
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Number of solutions to a linear equation of n variables](https://parameterizer.me/number-of-solutions-to-a-linear-equation-of-n-variables)
-- [An introduction to Single Page Applications with Flask and AJAX](https://parameterizer.me/an-introduction-to-single-page-applications-with-flask-and-ajax)
-- [The basics of Computer Architecture](https://parameterizer.me/the-basics-of-computer-architecture)
+- [Number of solutions to a linear equation of n variables](https://shreytripathi.hashnode.dev/number-of-solutions-to-a-linear-equation-of-n-variables)
+- [An introduction to Single Page Applications with Flask and AJAX](https://shreytripathi.hashnode.dev/an-introduction-to-single-page-applications-with-flask-and-ajax)
+- [The basics of Computer Architecture](https://shreytripathi.hashnode.dev/the-basics-of-computer-architecture)
 <!-- BLOG-POST-LIST:END -->
 
 
