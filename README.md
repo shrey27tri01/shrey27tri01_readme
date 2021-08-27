@@ -1,5 +1,5 @@
 ### Hi there! I am Shrey 👋
-[![The Parameterizer!](https://img.shields.io/badge/The%20Parameterizer!-up-green?style=for-the-badge)](https://shrey27tri01.github.io/)
+[![The Parameterizer!](https://img.shields.io/badge/The%20Parameterizer!-down-red?style=for-the-badge)](https://shrey27tri01.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shrey__tripathi?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/shrey__tripathi)
 <!-- [![Gitwar](https://gitwar.herokuapp.com/badge?username=shrey27tri01&style=for-the-badge)](https://gitwar.herokuapp.com/) -->
 
